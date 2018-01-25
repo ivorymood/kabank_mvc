@@ -55,6 +55,7 @@
 <script>
 document.querySelector("#create_table_btn").addEventListener('click', function(e){
 	document.querySelector("#create_table_form").submit;
+	//dd
 }, false);	
 </script>
 </html>
