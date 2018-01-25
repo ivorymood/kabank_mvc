@@ -1,0 +1,14 @@
+@charset "UTF-8";
+#join_second_header{height: 80px; text-align: center;}
+#join_prg{height: 600px;  text-align: center;}
+#join_table, tr, td{text-align: left; padding: 5px; border-bottom: 1px solid #000080; }
+tr:hover{background-color: lightgray }
+td:nth-child(odd){font: bold 15px verdana, sans-serif;}
+td:nth-child(even){font: 7px verdana, sans-serif; }
+#join_form{width: 700px; margin: 0 auto;}
+#join_file{
+    background-image: url('../img/paw.png');
+    /* background-position: 100px 100px;  */
+    background-repeat: no-repeat;
+    width: 110px; height: 110px;
+}
